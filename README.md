@@ -33,7 +33,7 @@ I have only shown below the main layers of resnet and each of the 'layer1', 'lay
 
     
 # Getting started :       
-[Click](https://github.com/jayadevvasudevan/retinopathy_detection/blob/main/GettingStarted.md) here to get started locally on your system.
+[Click](https://github.com//ajaynair710/Diabetic-Retinopathy-Detection/blob/main/GettingStarted.md) here to get started locally on your system.
 
 ## Some snaps :     
 ![images/gui1.JPG](images/gui1.PNG)
@@ -44,11 +44,11 @@ I have only shown below the main layers of resnet and each of the 'layer1', 'lay
   
  
 # Navigating the project :  
-* [Check out the training code here](https://github.com/jayadevvasudevan/retinopathy_detection/blob/main/training.ipynb)  
-* [Check out testing done on unseen image](https://github.com/jayadevvasudevan/retinopathy_detection/blob/main/Single_test_inference.ipynb)    
-* [Check out the executable file (for running GUI)](https://github.com/jayadevvasudevan/retinopathy_detection/blob/main/blindness.py)    
-* [check out the model executable file (for loading to get inference locally)](https://github.com/jayadevvasudevan/retinopathy_detection/blob/main/model.py)    
-* [for getting pre-trained weights for this model, check out getting started section here](https://github.com/jayadevvasudevan/retinopathy_detection/blob/main/GettingStarted.md)       
+* [Check out the training code here](https://github.com//ajaynair710/Diabetic-Retinopathy-Detection/blob/main/training.ipynb)  
+* [Check out testing done on unseen image](https://github.com//ajaynair710/Diabetic-Retinopathy-Detection/blob/main/Single_test_inference.ipynb)    
+* [Check out the executable file (for running GUI)](https://github.com//ajaynair710/Diabetic-Retinopathy-Detection/blob/main/blindness.py)    
+* [check out the model executable file (for loading to get inference locally)](https://github.com//ajaynair710/Diabetic-Retinopathy-Detection/blob/main/model.py)    
+* [for getting pre-trained weights for this model, check out getting started section here](https://github.com//ajaynair710/Diabetic-Retinopathy-Detection/blob/main/GettingStarted.md)       
 
 [Note : The training files in this repo is only shown after final training as it took around more than 100 epochs to reach 97% accuracy and a lot of compute power and time.]     
 
